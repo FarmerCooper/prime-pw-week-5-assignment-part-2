@@ -5,9 +5,12 @@
 
 .main {
     background-color: lightgray;
+    padding: 1em;
 }
 
 .body {
     background-image: url("record.png");
+    background-repeat: repeat;
     background-color: white;
+    margin: 0;
 }
